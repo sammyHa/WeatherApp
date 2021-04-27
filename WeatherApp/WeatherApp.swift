@@ -1,14 +1,14 @@
 //
-//  RecipeAppApp.swift
-//  RecipeApp
+//  WeatherApp.swift
+//  WeatherApp
 //
-//  Created by Samim Hakimi on 4/26/21.
+//  Created by Samim Hakimi on 4/27/21.
 //
 
 import SwiftUI
 
 @main
-struct RecipeAppApp: App {
+struct WeatherAppApp: App {
     var body: some Scene {
         WindowGroup {
             WeatherView()
